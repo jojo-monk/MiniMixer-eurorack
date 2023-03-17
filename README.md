@@ -1,0 +1,2 @@
+# MiniMixer eurorack
+ MiniMixer Eurorack
