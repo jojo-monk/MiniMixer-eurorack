@@ -6,6 +6,7 @@ Le module a été testé, il fonctionne parfaitement.
 
 <img src="MiniMixer1.JPG" height="800" width="600" >
 <img src="MiniMixer2.JPG" height="800" width="600" >
-[Build document](https://github.com/jojo-monk/MiniMixer-eurorack/blob/main/ibom.html)
+
+[Build document](https://htmlpreview.github.io/?https://github.com/jojo-monk/MiniMixer-eurorack/blob/main/ibom.html)
 
 Based on Nearness, by Jesper Särnesjö. Through-hole remix by Kevin Olivella.
